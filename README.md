@@ -1,6 +1,6 @@
 # Boulder-Jump
 A simple boulder Jumper game created using SpriteKit. 
-Recreation and significant modification of the project created in UDEMY's boulder jumper game.
+Recreation and significant modification of the project created in UDEMY's SpriteKit course.
 
 ![screen shot 2015-07-07 at 3 44 28 pm](https://cloud.githubusercontent.com/assets/8036160/8545469/a7216d70-24b7-11e5-82dc-7c8c2cf62e52.png)
 
